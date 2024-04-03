@@ -17,6 +17,10 @@
 
 ![](https://github.com/agneay/RunMan-Game-Ruby2d/blob/main/assets/video/video-ezgif.com-video-to-gif-converter.gif)
 
+## To-do
+- [ ] Add multiple levels
+- [ ] Improved precision control over player position
+- [ ] multiple audio and background game
 ---
 Assets sources:
 * Sprites     : rub2d.com/learb
