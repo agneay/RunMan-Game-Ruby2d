@@ -9,7 +9,8 @@
 ![](https://img.shields.io/github/issues/agneay/RunMan-Game-Ruby2d?style=for-the-badge)
 ![](https://img.shields.io/github/stars/agneay/RunMan-Game-Ruby2d?style=for-the-badge)
 ![](https://img.shields.io/github/license/agneay/RunMan-Game-Ruby2d?style=for-the-badge)
-![](./assets/video/video.mp4)
+
+![](https://github.com/Agneay/RunMan-Game-Ruby2d/assets/video/video-ezgif.com-video-to-gif-converter.gif)
 
 ---
 Assets sources:
